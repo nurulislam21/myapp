@@ -12,7 +12,7 @@ const Home = () => {
       <section className='hero' id='home'>
         <div className='container f_flex top'>
           <div className='left top'>
-            <h3>WELCOME TO MY WORLD</h3>
+            <h3>WELCOME TO MY site</h3>
             <h1>
               Hi, I’m <span>Noman</span>
             </h1>
